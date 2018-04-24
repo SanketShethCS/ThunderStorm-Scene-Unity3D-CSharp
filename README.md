@@ -6,4 +6,4 @@ https://youtu.be/Zs1YsXSus2s
 A preliminary look at the procedural rendering of lightning is available at the following link-
 https://www.youtube.com/watch?v=Zi-4xQJlyNs
 
-These files are Unity3D project files and demonstration videos, for executing the simulation run the thunderstorm.exe file.
+These files are Unity3D project files and demonstration videos, for executing the simulation run the Thunderstorm Demo.exe file.
